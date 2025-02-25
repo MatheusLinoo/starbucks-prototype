@@ -35,7 +35,7 @@ starbuckslp/
 
 ### Deploy 🌐
 
-O site pode ser acessado através do seguinte link: [Starbucks landing page.](https://vercel.app)
+O site pode ser acessado através do seguinte link: [Starbucks landing page.](https://matheuslinoo.github.io/starbucks-prototype)
 
 ## Autor 📚
 
